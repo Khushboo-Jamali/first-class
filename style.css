@@ -1,0 +1,12 @@
+#header ul li {
+  color: rgb(142, 39, 238);
+  background-color: rgb(156, 114, 196);
+  display: inline;
+  border: 2px;
+  border-style: dotted;
+  border-width: 40px;
+  margin-top: 4px;
+  float: right;
+  height: 89px;
+  width: 700px;
+}
